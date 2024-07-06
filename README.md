@@ -31,7 +31,7 @@ Here are a few highlights of my projects where I combined embedded systems with 
 
 ### Contact Me
 
-- **LinkedIn**:[Rumy's LinkedIn](https://www.linkedin.com/in/elrumy/)
+- **LinkedIn**: [Rumy's LinkedIn](https://www.linkedin.com/in/elrumy/)
 - **Email**: [personalrumy@gmail.com](mailto:personalrumy@gmail.com)
 
 ---
