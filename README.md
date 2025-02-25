@@ -24,7 +24,7 @@ Here are a few highlights of my projects where I combined embedded systems with 
 
 ### Skills
 
-- **Embedded Systems**: C, C++, Microcontrollers (Arduino, STM32), RTOS
+- **Embedded Systems**: C++, Microcontrollers
 - **Machine Learning**: Python, TensorFlow, Keras, scikit-learn
 - **Deep Learning**: Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks
 - **Integration**: MQTT, IoT, Sensor Networks, Data Processing
