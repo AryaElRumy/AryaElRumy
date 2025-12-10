@@ -6,21 +6,13 @@
 
 ## About Me
 
-I am a passionate Junior Embedded System Engineer with a strong interest in Machine Learning and Deep Learning. My work often involves experimenting with the fusion of embedded systems and machine learning to create intelligent systems that can make a real-world impact.
+Python Developer with 2 years of experience at an IoT-focused startup, delivering 10+ end-to-end AI and software projects from prototype to production. Skilled in Python, FastAPI, MQTT, Ultralytics YOLO, and PostgreSQL, with hands-on expertise in designing scalable architectures and deploying AI models as robust FastAPI services. Adept at independent work in agile environments, combining AI and software engineering to build reliable, real-world IoT solutions.
 
 ### What I Do
 
-- **Embedded Systems Development**: Designing, developing, and optimizing embedded systems for various applications.
-- **Machine Learning**: Building and training models for predictive analytics, classification, and anomaly detection.
-- **Deep Learning**: Exploring neural networks and their applications in image processing, natural language processing, and more.
-- **Integration**: Combining the power of embedded systems with machine learning algorithms to create smart, autonomous solutions.
 
 ### Projects
 
-Here are a few highlights of my projects where I combined embedded systems with machine learning:
-
-- **Fire Monitoring System Using Quadcopter and Raspberry Pi**: developing a quadcopter and equipping it with a Raspberry Pi and FLIR Lepton IR camera. This setup was created to detect and locate potential fires. To classify scenes where fire potentially occurred, I used a support vector classifier. The vehicle coordinates were then sent to the ground control station.
-- **Anomaly Detection in Power Meters**: Created a system to detect anomalies in power meter readings using LSTM autoencoders, with real-time data processing and MQTT integration.
 
 ### Skills
 
