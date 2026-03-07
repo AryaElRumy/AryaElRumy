@@ -1,7 +1,6 @@
 # Mochamad Arya El Rumy
 
 > **LV. 2 Python/AI Engineer**  
-> *“Turning ideas into intelligent systems.”*
 
 ---
 
