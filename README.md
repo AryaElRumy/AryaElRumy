@@ -1,11 +1,11 @@
-# 🧙 Mochamad Arya El Rumy
+# Mochamad Arya El Rumy
 
 > **LV. 2 Python/AI Engineer**  
 > *“Turning ideas into intelligent systems.”*
 
 ---
 
-## 🧾 DESCRIPTION
+## DESCRIPTION
 
 **Python Developer** with ~2 years of hands-on experience at an IoT-focused startup, collaboratively delivering **20+ production-grade Vision and LLM systems** on edge hardware.  
 
@@ -16,7 +16,7 @@ Skilled in building real-time inference services with seamless software-hardware
 
 ---
 
-## ⚔️ STATS
+## STATS
 
 | Attribute | Value |
 |------------|--------|
@@ -28,7 +28,7 @@ Skilled in building real-time inference services with seamless software-hardware
 
 ---
 
-## 🧠 SKILLS
+## SKILLS
 
 | Skill | Level |
 |:------|:------|
@@ -42,7 +42,7 @@ Skilled in building real-time inference services with seamless software-hardware
 
 ---
 
-## 🧰 TOOLS
+## TOOLS
 
 <p align="left">
   <img width="40" height="40" alt="fastapi-seeklogo" src="https://github.com/user-attachments/assets/a5ad0d3d-0002-4e96-a218-ba9641b46cfc" />
@@ -53,11 +53,3 @@ Skilled in building real-time inference services with seamless software-hardware
   
 
 </p>
-
----
-
-## 🧩 ABOUT
-
-> “Always leveling up — from model to deployment.”
-
----
