@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-**Python Developer** with ~2 years of hands-on experience at an IoT-focused startup, collaboratively delivering **20+ production-grade Vision and LLM systems** on edge hardware.  
+**Python Developer** with ~2 years of hands-on experience at an IoT-focused startup, collaboratively delivering **10+ production-grade Vision and LLM systems** on edge hardware.  
 
 **Core Stack:**  
 `Python`, `FastAPI`, `MQTT`, `Ultralytics YOLO`, `OpenAI SDK`, `ONNX/OpenVINO`, `Docker`, `GitHub`  
